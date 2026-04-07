@@ -101,14 +101,14 @@ This ensures:
 Stable API availability
 Faster response times
 Scalability for larger workloads
-### Future Enhancements
+## Future Enhancements
 #### Web-based UI using Streamlit or React
 #### User input field for dynamic video URLs
 #### Deployment on cloud platforms (AWS / GCP / Vercel)
 #### Support for batch video processing
 #### Advanced summarization with multi-step reasoning
 #### Improved UI/UX for generated websites
-#### Learning Outcomes
+## Learning Outcomes
 
 This project demonstrates:
 
