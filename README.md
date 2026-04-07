@@ -30,8 +30,8 @@ script.js
 website.zip
 #### End-to-End Automation
 Entire pipeline runs with a single command
-#### Tech Stack
-## Backend & AI
+## Tech Stack
+### Backend & AI
 Python
 LangChain
 Google Gemini API (Gemini 2.5 Flash)
