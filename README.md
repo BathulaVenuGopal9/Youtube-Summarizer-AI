@@ -59,9 +59,7 @@ Output Layer
 Saves files and generates downloadable ZIP
 
 ### Installation & Setup
-#### Clone Repository
-git clone https://github.com/your-username/youtube-summarizer-ai.git
-cd youtube-summarizer-ai
+
 #### Install Dependencies
 pip install -r requirements.txt
 #### Configure Environment Variables
